@@ -1,0 +1,3 @@
+./Objects/obj/table.obj
+./Objects/obj/andy.obj
+./Objects/obj/appricot.obj

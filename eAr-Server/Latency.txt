@@ -1,0 +1,50 @@
+Start Decimation at Sun May 02 12:12:39 EDT 2021 for object ATV
+decimation time : 2159 milliseconds 
+Writing time : 18 milliseconds 
+Start Decimation at Sun May 02 12:12:42 EDT 2021 for object ATV
+decimation time : 1795 milliseconds 
+Writing time : 106 milliseconds 
+Start Decimation at Sun May 02 12:12:43 EDT 2021 for object ATV
+decimation time : 1246 milliseconds 
+Writing time : 72 milliseconds 
+Start Decimation at Sun May 02 12:12:51 EDT 2021 for object ATV
+decimation time : 1113 milliseconds 
+Writing time : 16 milliseconds 
+Start Decimation at Sun May 02 12:12:56 EDT 2021 for object ATV
+decimation time : 1083 milliseconds 
+Writing time : 40 milliseconds 
+Start Decimation at Sun May 02 12:14:53 EDT 2021 for object ATV
+decimation time : 1722 milliseconds 
+Writing time : 118 milliseconds 
+Start Decimation at Sun May 02 12:15:01 EDT 2021 for object ATV
+decimation time : 1336 milliseconds 
+Writing time : 35 milliseconds 
+Writing time : 28 milliseconds 
+Writing time : 56 milliseconds 
+Writing time : 34 milliseconds 
+Start Decimation at Sun May 02 14:23:32 EDT 2021 for object andy
+decimation time : 2674 milliseconds 
+Writing time : 163 milliseconds 
+Start Decimation at Sun May 02 14:23:36 EDT 2021 for object andy
+decimation time : 1824 milliseconds 
+Writing time : 89 milliseconds 
+Start Decimation at Sun May 02 14:44:21 EDT 2021 for object splane
+decimation time : 34214 milliseconds 
+Writing time : 1434 milliseconds 
+Start Decimation at Sun May 02 14:45:19 EDT 2021 for object splane
+decimation time : 22911 milliseconds 
+Writing time : 1710 milliseconds 
+Writing time : 1675 milliseconds 
+Start Decimation at Sun May 02 14:46:05 EDT 2021 for object splane
+decimation time : 22094 milliseconds 
+Writing time : 1069 milliseconds 
+Writing time : 1291 milliseconds 
+Writing time : 1183 milliseconds 
+Writing time : 31 milliseconds 
+Writing time : 822 milliseconds 
+Writing time : 942 milliseconds 
+Writing time : 2190 milliseconds 
+Writing time : 967 milliseconds 
+Writing time : 890 milliseconds 
+Writing time : 842 milliseconds 
+Writing time : 17 milliseconds 

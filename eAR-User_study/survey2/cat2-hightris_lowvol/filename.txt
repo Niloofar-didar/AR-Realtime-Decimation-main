@@ -1,0 +1,9 @@
+CocacolaFinalfact0.2d0.5r0.76.png
+CocacolaFinalfact0.4d0.5r0.61.png
+CocacolaFinalfact0.6d0.5r0.4.png
+CocacolaFinalfact0.2d1.0r0.7.png
+CocacolaFinalfact0.4d1.0r0.42.png
+CocacolaFinalfact0.6d1.0r0.1.png
+CocacolaFinalfact0.2d2.0r0.49.png
+CocacolaFinalfact0.4d2.0r0.1.png
+CocacolaFinalfact0.6d2.0r0.1.png

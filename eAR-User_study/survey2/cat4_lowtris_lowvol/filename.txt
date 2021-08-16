@@ -1,0 +1,9 @@
+hammerfact0.2d0.68r0.84.png
+hammerfact0.4d0.68r0.74.png
+hammerfact0.6d0.68r0.63.png
+hammerfact0.2d1.0r0.68.png
+hammerfact0.4d1.0r0.44.png
+hammerfact0.6d1.0r0.21.png
+hammerfact0.2d2.0r0.1.png
+hammerfact0.4d2.0r0.1.png
+hammerfact0.6d2.0r0.1.png

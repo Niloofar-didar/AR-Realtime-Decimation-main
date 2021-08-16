@@ -1,0 +1,9 @@
+ATVfact0.2d2.52r0.79.png
+ATVfact0.4d2.52r0.73.png
+ATVfact0.6d2.52r0.66.png
+ATVfact0.2d4.0r0.73.png
+ATVfact0.4d4.0r0.59.png
+ATVfact0.6d4.0r0.34.png
+ATVfact0.2d6.0r0.67.png
+ATVfact0.4d6.0r0.37.png
+ATVfact0.6d6.0r0.1.png

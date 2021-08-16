@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="obj_num">TextView</string>
+    <string name="camera_position">Camera Position:</string>
+    <string-array name="user_score">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+
+</resources>

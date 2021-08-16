@@ -1,0 +1,229 @@
+# Blender MTL File: 'None'
+# Material Count: 19
+
+newmtl Material__25
+Ns 24.251493
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump f14fuselage_Normal.jpg
+map_Kd f14fuselage.jpg
+map_Ks f14fuselage_spec.jpg
+
+newmtl Material__26
+Ns 19.698296
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump f14fuselage_lower_Normal.jpg
+map_Kd f14fuselage_lower.jpg
+map_Ks f14fuselage_lower_spec.jpg
+
+newmtl Material__27
+Ns 27.857595
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump f14intakes_misc_Normal.jpg
+map_Kd f14intakes_misc.jpg
+map_Ks f14intakes_misc_spec.jpg
+
+newmtl Material__28
+Ns 29.857108
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump f14_wing_1_Normal.jpg
+map_Kd f14_wing_1.jpg
+map_Ks f14_wing_1_spec.jpg
+
+newmtl Material__29
+Ns 29.857108
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump f14_wing_2_Normal.jpg
+map_Kd f14_wing_2.jpg
+map_Ks f14_wing_2_spec.jpg
+
+newmtl Material__30
+Ns 29.857108
+Ka 1.000000 1.000000 1.000000
+Kd 0.482353 0.525490 0.549020
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material__31
+Ns 18.379194
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump f14d_stores_Normal.jpg
+map_Kd f14_stores.jpg
+
+newmtl Material__32
+Ns 21.112098
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f14canopy.jpg
+map_Ks f14canopy_spec.jpg
+
+newmtl Material__33
+Ns 19.698296
+Ka 1.000000 1.000000 1.000000
+Kd 0.007843 0.070588 0.098039
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.380000
+illum 9
+
+newmtl Material__34
+Ns 25.992097
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f14interior_detail.jpg
+
+newmtl Material__36
+Ns 34.296703
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd sju17ejectionseat.jpg
+
+newmtl Material__37
+Ns 22.627395
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Pilota_militare.jpg
+
+newmtl Material__38
+Ns 59.714112
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f14d_burner.jpg
+
+newmtl Material__39
+Ns 21.112098
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump f14taileron_lt_Normal.jpg
+map_Kd f14taileron_lt.jpg
+map_Ks f14taileron_lt_spec.jpg
+
+newmtl Material__40
+Ns 18.379194
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump f14taileron_rt_Normal.jpg
+map_Kd f14taileron_rt.jpg
+map_Ks f14taileron_rt_spec.jpg
+
+newmtl Material__41
+Ns 14.928500
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump f14tail_lt_Normal.jpg
+map_Kd f14tail_lt.jpg
+map_Ks f14tail_lt_spec.jpg
+
+newmtl Material__42
+Ns 31.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump f14taileron_rt_Normal.jpg
+map_Kd f14tail_rt.jpg
+map_Ks f14tail_rt_spec.jpg
+
+newmtl Material__43
+Ns 45.254789
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f14engine.jpg
+
+newmtl Material__44
+Ns 25.992097
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd f14landinggear.jpg

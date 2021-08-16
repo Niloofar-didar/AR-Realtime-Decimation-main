@@ -1,0 +1,195 @@
+2020-10-27 14:58:31:842 num of tris: 94080 virtual area 10.375201225280762 virtual vol 23.335002899169922 objname CocacolaFinal
+2020-10-27 14:58:34:830 num of tris: 188160 virtual area 20.773977279663086 virtual vol 46.7230281829834 objname CocacolaFinal
+2020-10-27 14:58:38:279 num of tris: 190882 virtual area 7854.672903060913 virtual vol 21231.082403182983 objname GarbageFinal
+2020-10-27 14:58:41:738 num of tris: 193186 virtual area 7863.094870567322 virtual vol 21242.82520198822 objname andy
+2020-10-27 14:58:47:912 num of tris: 279202 virtual area 7913.176470756531 virtual vol 21579.580786705017 objname apricot
+2020-10-27 14:58:54:573 num of tris: 324302 virtual area 9270.49141216278 virtual vol 21632.780314445496 objname tree
+2020-10-27 14:58:59:412 num of tris: 326606 virtual area 9480.711031913757 virtual vol 23098.33280467987 objname new_five_andy
+2020-10-27 14:59:48:996 num of tris: 347700 virtual area 9929.930636405945 virtual vol 23641.68534374237 objname table
+2020-10-27 14:59:54:905 num of tris: 766419 virtual area 10953.449618339539 virtual vol 30314.02811717987 objname washingmachine
+2020-10-27 14:59:59:326 num of tris: 913222 virtual area 11187.872546195984 virtual vol 30464.9692029953 objname plane
+2020-10-27 15:00:20:376 num of tris: 915526 virtual area 11397.12016582489 virtual vol 31923.745326042175 objname new_five_andy
+2020-10-27 15:00:45:345 num of tris: 1334245 virtual area 12420.464282035828 virtual vol 38594.947962760925 objname washingmachine
+2020-10-27 15:00:49:727 num of tris: 1549997 virtual area 13095.428515434265 virtual vol 40131.29403209686 objname roomtable
+2020-10-27 15:01:05:390 num of tris: 1552301 virtual area 13304.621386528015 virtual vol 41589.68844127655 objname new_five_andy
+2020-10-27 15:01:19:810 num of tris: 1558551 virtual area 13318.382592201233 virtual vol 41611.77303028107 objname hammer
+2020-10-27 15:01:23:459 num of tris: 1737103 virtual area 13722.11458683014 virtual vol 41734.68725299835 objname bike
+2020-10-27 15:01:28:696 num of tris: 1779203 virtual area 13988.388604164124 virtual vol 42663.14739704132 objname LibertyFinal
+2020-10-27 15:01:47:880 num of tris: 1941165 virtual area 14416.725121498108 virtual vol 43528.121945381165 objname airplane
+2020-10-27 15:01:52:488 num of tris: 1943887 virtual area 22164.578148841858 virtual vol 64479.795773506165 objname GarbageFinal
+2020-10-27 15:01:55:373 num of tris: 1985987 virtual area 22431.305596351624 virtual vol 65409.83691120148 objname LibertyFinal
+2020-10-27 15:01:58:077 num of tris: 2080067 virtual area 22441.57799053192 virtual vol 65432.94068813324 objname CocacolaFinal
+2020-10-27 15:02:01:081 num of tris: 2082391 virtual area 22451.997331619263 virtual vol 65445.04473400116 objname Cabin
+2020-10-27 15:02:05:930 num of tris: 2124491 virtual area 22718.339555740356 virtual vol 66373.74267101288 objname LibertyFinal
+2020-10-27 15:02:16:869 num of tris: 2130741 virtual area 22732.077313423157 virtual vol 66395.78962993622 objname hammer
+2020-10-27 15:02:20:401 num of tris: 2151835 virtual area 23180.075390815735 virtual vol 66937.66469097137 objname table
+2020-10-27 15:02:24:520 num of tris: 2570554 virtual area 24199.442273139954 virtual vol 73582.94008159637 objname washingmachine
+4-Redraw object time: 2020-10-27 15:03:20:220 num of tris: 2556442 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:03:20:229 num of tris: 2542330 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:03:20:236 num of tris: 2528218 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:03:24:366 num of tris: 2527809 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:03:24:373 num of tris: 2527400 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:03:28:004 num of tris: 2527054 virtual area 24199.442273139954 virtual vol 73582.94008159637 andy
+4-Redraw object time: 2020-10-27 15:03:32:842 num of tris: 2514151 virtual area 24199.442273139954 virtual vol 73582.94008159637 apricot
+4-Redraw object time: 2020-10-27 15:03:41:109 num of tris: 2507386 virtual area 24199.442273139954 virtual vol 73582.94008159637 tree
+4-Redraw object time: 2020-10-27 15:03:45:259 num of tris: 2507040 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:03:45:267 num of tris: 2506694 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:03:45:274 num of tris: 2506348 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:03:50:531 num of tris: 2503183 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:03:50:537 num of tris: 2500018 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:04:52:224 num of tris: 2437210 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:04:52:246 num of tris: 2374402 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:04:52:251 num of tris: 2311594 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:05:12:259 num of tris: 2289573 virtual area 24199.442273139954 virtual vol 73582.94008159637 plane
+4-Redraw object time: 2020-10-27 15:05:41:541 num of tris: 2257210 virtual area 24199.442273139954 virtual vol 73582.94008159637 roomtable
+4-Redraw object time: 2020-10-27 15:05:46:414 num of tris: 2256272 virtual area 24199.442273139954 virtual vol 73582.94008159637 hammer
+4-Redraw object time: 2020-10-27 15:05:46:422 num of tris: 2255334 virtual area 24199.442273139954 virtual vol 73582.94008159637 hammer
+4-Redraw object time: 2020-10-27 15:06:16:514 num of tris: 2228551 virtual area 24199.442273139954 virtual vol 73582.94008159637 bike
+4-Redraw object time: 2020-10-27 15:06:20:727 num of tris: 2222236 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:06:20:732 num of tris: 2215921 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:06:20:741 num of tris: 2209606 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:06:52:405 num of tris: 2185311 virtual area 24199.442273139954 virtual vol 73582.94008159637 airplane
+4-Redraw object time: 2020-10-27 15:07:00:705 num of tris: 2184962 virtual area 24199.442273139954 virtual vol 73582.94008159637 Cabin
+4-Redraw object time: 2020-10-27 15:10:43:899 num of tris: 2170850 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:10:43:917 num of tris: 2156738 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:10:43:925 num of tris: 2142626 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:10:47:786 num of tris: 2142218 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:10:47:793 num of tris: 2141810 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:10:50:774 num of tris: 2141464 virtual area 24199.442273139954 virtual vol 73582.94008159637 andy
+4-Redraw object time: 2020-10-27 15:10:56:240 num of tris: 2128562 virtual area 24199.442273139954 virtual vol 73582.94008159637 apricot
+4-Redraw object time: 2020-10-27 15:11:00:569 num of tris: 2121797 virtual area 24199.442273139954 virtual vol 73582.94008159637 tree
+4-Redraw object time: 2020-10-27 15:11:04:791 num of tris: 2121451 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:11:04:795 num of tris: 2121105 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:11:04:799 num of tris: 2120759 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:11:08:988 num of tris: 2117595 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:11:08:998 num of tris: 2114431 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:11:19:673 num of tris: 2051623 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:11:19:678 num of tris: 1988815 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:11:19:685 num of tris: 1926007 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:11:42:709 num of tris: 1903987 virtual area 24199.442273139954 virtual vol 73582.94008159637 plane
+4-Redraw object time: 2020-10-27 15:11:49:031 num of tris: 1871624 virtual area 24199.442273139954 virtual vol 73582.94008159637 roomtable
+4-Redraw object time: 2020-10-27 15:11:53:889 num of tris: 1870687 virtual area 24199.442273139954 virtual vol 73582.94008159637 hammer
+4-Redraw object time: 2020-10-27 15:11:53:895 num of tris: 1869750 virtual area 24199.442273139954 virtual vol 73582.94008159637 hammer
+4-Redraw object time: 2020-10-27 15:12:02:018 num of tris: 1842967 virtual area 24199.442273139954 virtual vol 73582.94008159637 bike
+4-Redraw object time: 2020-10-27 15:12:10:887 num of tris: 1836652 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:12:10:896 num of tris: 1830337 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:12:10:912 num of tris: 1824022 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:12:16:331 num of tris: 1799728 virtual area 24199.442273139954 virtual vol 73582.94008159637 airplane
+4-Redraw object time: 2020-10-27 15:12:19:852 num of tris: 1799379 virtual area 24199.442273139954 virtual vol 73582.94008159637 Cabin
+4-Redraw object time: 2020-10-27 15:14:20:577 num of tris: 1785267 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:14:20:589 num of tris: 1771155 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:14:20:596 num of tris: 1757043 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:14:20:625 num of tris: 1756635 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:14:20:636 num of tris: 1756227 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:14:24:861 num of tris: 1755882 virtual area 24199.442273139954 virtual vol 73582.94008159637 andy
+4-Redraw object time: 2020-10-27 15:14:40:389 num of tris: 1742979 virtual area 24199.442273139954 virtual vol 73582.94008159637 apricot
+4-Redraw object time: 2020-10-27 15:14:50:073 num of tris: 1736214 virtual area 24199.442273139954 virtual vol 73582.94008159637 tree
+4-Redraw object time: 2020-10-27 15:14:54:270 num of tris: 1735869 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:14:54:279 num of tris: 1735524 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:14:54:283 num of tris: 1735179 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:14:59:836 num of tris: 1732015 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:14:59:841 num of tris: 1728851 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:17:06:670 num of tris: 1666043 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:17:06:678 num of tris: 1603235 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:17:06:688 num of tris: 1540427 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:17:43:921 num of tris: 1518406 virtual area 24199.442273139954 virtual vol 73582.94008159637 plane
+4-Redraw object time: 2020-10-27 15:18:36:265 num of tris: 1486043 virtual area 24199.442273139954 virtual vol 73582.94008159637 roomtable
+4-Redraw object time: 2020-10-27 15:18:45:449 num of tris: 1485105 virtual area 24199.442273139954 virtual vol 73582.94008159637 hammer
+4-Redraw object time: 2020-10-27 15:18:45:462 num of tris: 1484167 virtual area 24199.442273139954 virtual vol 73582.94008159637 hammer
+4-Redraw object time: 2020-10-27 15:19:39:500 num of tris: 1457384 virtual area 24199.442273139954 virtual vol 73582.94008159637 bike
+4-Redraw object time: 2020-10-27 15:19:49:512 num of tris: 1451069 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:19:49:517 num of tris: 1444754 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:19:49:525 num of tris: 1438439 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:20:17:658 num of tris: 1414145 virtual area 24199.442273139954 virtual vol 73582.94008159637 airplane
+4-Redraw object time: 2020-10-27 15:20:21:863 num of tris: 1413797 virtual area 24199.442273139954 virtual vol 73582.94008159637 Cabin
+4-Redraw object time: 2020-10-27 15:22:11:110 num of tris: 1399685 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:22:11:115 num of tris: 1385573 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:22:11:121 num of tris: 1371461 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:22:15:078 num of tris: 1371052 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:22:15:086 num of tris: 1370643 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:22:19:114 num of tris: 1370297 virtual area 24199.442273139954 virtual vol 73582.94008159637 andy
+4-Redraw object time: 2020-10-27 15:22:19:136 num of tris: 1357395 virtual area 24199.442273139954 virtual vol 73582.94008159637 apricot
+4-Redraw object time: 2020-10-27 15:22:27:173 num of tris: 1350630 virtual area 24199.442273139954 virtual vol 73582.94008159637 tree
+4-Redraw object time: 2020-10-27 15:22:31:252 num of tris: 1350284 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:22:31:271 num of tris: 1349938 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:22:31:284 num of tris: 1349592 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:22:36:649 num of tris: 1346428 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:22:36:656 num of tris: 1343264 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:25:29:312 num of tris: 1280456 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:25:29:316 num of tris: 1217648 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:25:29:322 num of tris: 1154840 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:25:51:570 num of tris: 1132820 virtual area 24199.442273139954 virtual vol 73582.94008159637 plane
+4-Redraw object time: 2020-10-27 15:26:27:809 num of tris: 1100457 virtual area 24199.442273139954 virtual vol 73582.94008159637 roomtable
+4-Redraw object time: 2020-10-27 15:26:31:571 num of tris: 1099520 virtual area 24199.442273139954 virtual vol 73582.94008159637 hammer
+4-Redraw object time: 2020-10-27 15:26:31:577 num of tris: 1098583 virtual area 24199.442273139954 virtual vol 73582.94008159637 hammer
+4-Redraw object time: 2020-10-27 15:26:36:872 num of tris: 1071800 virtual area 24199.442273139954 virtual vol 73582.94008159637 bike
+4-Redraw object time: 2020-10-27 15:26:46:288 num of tris: 1065485 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:26:46:293 num of tris: 1059170 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:26:46:311 num of tris: 1052855 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:27:11:722 num of tris: 1028560 virtual area 24199.442273139954 virtual vol 73582.94008159637 airplane
+4-Redraw object time: 2020-10-27 15:27:15:950 num of tris: 1028211 virtual area 24199.442273139954 virtual vol 73582.94008159637 Cabin
+4-Redraw object time: 2020-10-27 15:28:44:828 num of tris: 1015039 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:28:44:831 num of tris: 1001867 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:28:44:836 num of tris: 988695 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:28:47:754 num of tris: 988314 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:28:47:767 num of tris: 987933 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:28:50:837 num of tris: 987611 virtual area 24199.442273139954 virtual vol 73582.94008159637 andy
+4-Redraw object time: 2020-10-27 15:29:02:147 num of tris: 975569 virtual area 24199.442273139954 virtual vol 73582.94008159637 apricot
+4-Redraw object time: 2020-10-27 15:29:09:710 num of tris: 969255 virtual area 24199.442273139954 virtual vol 73582.94008159637 tree
+4-Redraw object time: 2020-10-27 15:29:13:560 num of tris: 968933 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:29:13:567 num of tris: 968611 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:29:13:572 num of tris: 968289 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:29:18:514 num of tris: 965336 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:29:18:524 num of tris: 962383 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:32:40:225 num of tris: 903762 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:32:40:230 num of tris: 845141 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:32:40:234 num of tris: 786520 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:33:01:766 num of tris: 765967 virtual area 24199.442273139954 virtual vol 73582.94008159637 plane
+4-Redraw object time: 2020-10-27 15:33:36:697 num of tris: 735762 virtual area 24199.442273139954 virtual vol 73582.94008159637 roomtable
+4-Redraw object time: 2020-10-27 15:33:44:075 num of tris: 734887 virtual area 24199.442273139954 virtual vol 73582.94008159637 hammer
+4-Redraw object time: 2020-10-27 15:33:44:081 num of tris: 734012 virtual area 24199.442273139954 virtual vol 73582.94008159637 hammer
+4-Redraw object time: 2020-10-27 15:34:11:170 num of tris: 709015 virtual area 24199.442273139954 virtual vol 73582.94008159637 bike
+4-Redraw object time: 2020-10-27 15:34:19:575 num of tris: 703121 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:34:19:581 num of tris: 697227 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:34:19:589 num of tris: 691333 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:34:41:955 num of tris: 668659 virtual area 24199.442273139954 virtual vol 73582.94008159637 airplane
+4-Redraw object time: 2020-10-27 15:34:45:992 num of tris: 668334 virtual area 24199.442273139954 virtual vol 73582.94008159637 Cabin
+4-Redraw object time: 2020-10-27 15:34:56:625 num of tris: 657986 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:34:56:637 num of tris: 647638 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:34:56:646 num of tris: 637290 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:35:05:350 num of tris: 636991 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:35:05:354 num of tris: 636692 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:35:11:937 num of tris: 636438 virtual area 24199.442273139954 virtual vol 73582.94008159637 andy
+4-Redraw object time: 2020-10-27 15:35:36:024 num of tris: 626976 virtual area 24199.442273139954 virtual vol 73582.94008159637 apricot
+4-Redraw object time: 2020-10-27 15:35:51:609 num of tris: 622015 virtual area 24199.442273139954 virtual vol 73582.94008159637 tree
+4-Redraw object time: 2020-10-27 15:35:59:437 num of tris: 621761 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:35:59:446 num of tris: 621507 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:35:59:450 num of tris: 621253 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:36:09:614 num of tris: 618933 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:36:09:619 num of tris: 616613 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:39:20:273 num of tris: 570554 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:39:20:279 num of tris: 524495 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:39:20:283 num of tris: 478436 virtual area 24199.442273139954 virtual vol 73582.94008159637 washingmachine
+4-Redraw object time: 2020-10-27 15:39:39:144 num of tris: 462288 virtual area 24199.442273139954 virtual vol 73582.94008159637 plane
+4-Redraw object time: 2020-10-27 15:40:15:846 num of tris: 438555 virtual area 24199.442273139954 virtual vol 73582.94008159637 roomtable
+4-Redraw object time: 2020-10-27 15:40:20:164 num of tris: 437867 virtual area 24199.442273139954 virtual vol 73582.94008159637 hammer
+4-Redraw object time: 2020-10-27 15:40:20:167 num of tris: 437179 virtual area 24199.442273139954 virtual vol 73582.94008159637 hammer
+4-Redraw object time: 2020-10-27 15:40:47:288 num of tris: 417538 virtual area 24199.442273139954 virtual vol 73582.94008159637 bike
+4-Redraw object time: 2020-10-27 15:40:54:905 num of tris: 412907 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:40:54:910 num of tris: 408276 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:40:54:913 num of tris: 403645 virtual area 24199.442273139954 virtual vol 73582.94008159637 LibertyFinal
+4-Redraw object time: 2020-10-27 15:41:17:098 num of tris: 385829 virtual area 24199.442273139954 virtual vol 73582.94008159637 airplane
+4-Redraw object time: 2020-10-27 15:41:21:244 num of tris: 385573 virtual area 24199.442273139954 virtual vol 73582.94008159637 Cabin
+4-Redraw object time: 2020-10-27 15:47:14:891 num of tris: 376165 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:47:14:896 num of tris: 366757 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:47:14:900 num of tris: 357349 virtual area 24199.442273139954 virtual vol 73582.94008159637 CocacolaFinal
+4-Redraw object time: 2020-10-27 15:47:18:965 num of tris: 357077 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:47:18:977 num of tris: 356805 virtual area 24199.442273139954 virtual vol 73582.94008159637 GarbageFinal
+4-Redraw object time: 2020-10-27 15:47:22:757 num of tris: 356575 virtual area 24199.442273139954 virtual vol 73582.94008159637 andy
+4-Redraw object time: 2020-10-27 15:47:33:772 num of tris: 347973 virtual area 24199.442273139954 virtual vol 73582.94008159637 apricot
+4-Redraw object time: 2020-10-27 15:47:43:732 num of tris: 343463 virtual area 24199.442273139954 virtual vol 73582.94008159637 tree
+4-Redraw object time: 2020-10-27 15:47:48:035 num of tris: 343233 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:47:48:056 num of tris: 343003 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:47:48:065 num of tris: 342773 virtual area 24199.442273139954 virtual vol 73582.94008159637 new_five_andy
+4-Redraw object time: 2020-10-27 15:47:52:466 num of tris: 340663 virtual area 24199.442273139954 virtual vol 73582.94008159637 table
+4-Redraw object time: 2020-10-27 15:47:52:475 num of tris: 338553 virtual area 24199.442273139954 virtual vol 73582.94008159637 table

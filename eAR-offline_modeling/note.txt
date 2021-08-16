@@ -1,0 +1,1 @@
+You need to have model.py and all the other GMSD files in the same  directory

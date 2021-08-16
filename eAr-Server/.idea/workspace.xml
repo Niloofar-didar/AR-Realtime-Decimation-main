@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="285eabe4-b9e5-4c5a-9fcb-ac78fec9bb8f" name="Default Changelist" comment="Fixed Decimation issue on server side (simplifier code is now compatible wt V2.8 + added join meshes),">
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/Cabin Texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/Cabin.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/Cabin.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/Cabin.sfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/House.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/House.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/House.sfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/Pilota_militare.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/andy.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/andy.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/andy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/andy.sfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14_stores.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14_stores_bump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14_stores_spec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14_wing_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14_wing_1_Normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14_wing_1_bump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14_wing_1_spec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14_wing_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14_wing_2_Normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14_wing_2_bump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14_wing_2_spec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14canopy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14canopy_spec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14d.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14d.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14d.sfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14d_burner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14d_stores_Normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14engine.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14fuselage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14fuselage_Normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14fuselage_bump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14fuselage_lower.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14fuselage_lower_Normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14fuselage_lower_bump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14fuselage_lower_spec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14fuselage_spec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14intakes_misc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14intakes_misc_Normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14intakes_misc_bump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14intakes_misc_spec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14interior_detail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14landinggear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14tail_lt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14tail_lt_Normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14tail_lt_bump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14tail_lt_spec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14tail_rt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14tail_rt_spec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14taileron_lt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14taileron_lt_Normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14taileron_lt_bump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14taileron_lt_spec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14taileron_rt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14taileron_rt_Normal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14taileron_rt_bump.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/f14taileron_rt_spec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/igloo.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/igloo.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/igloo.sfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/sampledata/models/sju17ejectionseat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/src/main/assets/models/plane.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/src/main/java/com/arcore/jinghuaz/demo/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloAR-master/app/src/main/java/com/arcore/jinghuaz/demo/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloAR-master/app/src/main/java/com/arcore/jinghuaz/demo/ModelRequestRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloAR-master/app/src/main/java/com/arcore/jinghuaz/demo/ModelRequestRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/ServerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/ServerThread.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jRP12KbG3z395FxhMlQZPkXjgd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="285eabe4-b9e5-4c5a-9fcb-ac78fec9bb8f" name="Default Changelist" comment="" />
+      <created>1603763713328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603763713328</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fixed Decimation issue on server side (simplifier code is now compatible wt V2.8 + added join meshes),">
+      <created>1603810272461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603810272461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed Decimation issue on server side (simplifier code is now compatible wt V2.8 + added join meshes)," />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Decimation issue on server side (simplifier code is now compatible wt V2.8 + added join meshes)," />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="908" y="203" width="424" height="484" key="FileChooserDialogImpl" timestamp="1616043018090">
+      <screen x="67" y="27" width="1853" height="997" />
+    </state>
+    <state x="908" y="203" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.997@67.27.1853.997" timestamp="1616043018090" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/ServerThread.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/ServerThread.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

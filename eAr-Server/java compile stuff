@@ -1,0 +1,7 @@
+**This is for running the server
+java -cp ./ server.ARServer server.ServerThread
+
+**this is for compiling the java files (only needed if changes to the server files are made)
+javac -d . ServerThread.java ARServer.java
+
+./AR_Decimation_Python.sh 0.5 ./input/andy/andy.obj
