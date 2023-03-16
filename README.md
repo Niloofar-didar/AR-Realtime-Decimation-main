@@ -1,9 +1,13 @@
 
 Please cite this paper:
 
-N. Didar and M. Brocanelli, "eAR: an Edge-Assisted and Energy-Efficient Mobile Augmented Reality Framework," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2022.3144879.
-
-
+@article{didar2022ear,
+  title={eAR: an Edge-Assisted and Energy-Efficient Mobile Augmented Reality Framework},
+  author={Didar, Niloofar and Brocanelli, Marco},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2022},
+  publisher={IEEE}
+}
 
 
 
