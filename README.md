@@ -4,7 +4,7 @@
 ![image](https://github.com/Niloofar-didar/AR-Realtime-Decimation-main/assets/27611369/467474b8-7e3e-4b3c-97b6-18c29b114f39)
 
 
-Please cite this paper:
+If you wanna leverage the coding, please cite this paper
 
 @article{didar2022ear,
   title={eAR: an Edge-Assisted and Energy-Efficient Mobile Augmented Reality Framework},
@@ -16,7 +16,7 @@ Please cite this paper:
 
 
 
-## Running the demo
+## Instriction to Run the demo
 
 **Runtime Environment:**
 - Ubuntu 20.4.2 LTS
