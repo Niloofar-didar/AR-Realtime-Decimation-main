@@ -1,4 +1,9 @@
 
+![image](https://github.com/Niloofar-didar/AR-Realtime-Decimation-main/assets/27611369/15bd9abb-07a4-4c47-9e8f-e0de572fd3b3)
+
+![image](https://github.com/Niloofar-didar/AR-Realtime-Decimation-main/assets/27611369/467474b8-7e3e-4b3c-97b6-18c29b114f39)
+
+
 Please cite this paper:
 
 @article{didar2022ear,
